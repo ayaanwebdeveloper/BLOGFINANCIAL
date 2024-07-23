@@ -1,0 +1,213 @@
+body {
+    background-color: rgba(216, 191, 216, 0.5);
+}
+
+
+
+header {
+    width: 100%;
+    background-color: #253940;
+    color: white;
+}
+nav,ul,h1,li {
+    display: inline-block;
+}
+ul {
+
+    float: right;
+}
+
+li {
+    padding: 25px 25px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
+li:hover {
+    background-color: whitesmoke;
+    color: #253940;
+}
+nav {
+margin-left: 10%;
+width: 80%;
+
+}
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 18px;
+}
+.top {
+   background-color:  #405e65;
+   width: 100%;
+   height: 400px;
+}
+.top > img {
+    width: 80%;
+margin-top: 70px;
+margin-left: 140px;
+position: relative;
+height: 350px;
+width: 80%;
+border: 10px whitesmoke solid;
+}
+.text {
+    background-color: rgba(0, 0, 0, 0.726);
+    color: white;
+    width: 20%;
+    position: absolute;
+    top: 270px;
+    left: 160px;
+    padding: 10px;
+    
+}
+.card >img {
+    margin-top: 90px;
+    margin-left: 60px;
+    width: 15pc;
+}
+.p1 {
+    width: 300px;
+    height: 520px;
+    
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.p1i {
+    padding: 20px;   
+    height: 200px;
+    border: 10px solid whitesmoke;
+    
+   }
+   .p1p {
+      padding-left: 60px;
+       
+   }
+   .pg {
+ 
+background-color: lightgreen;
+margin-left: 10px;
+    width: 280px;
+height: 40px;
+font-size: 20px;
+border-radius: 20px;
+cursor: pointer;
+ 
+   }
+button:hover {
+    background-color: rgb(0, 255, 0);
+    color: white;
+}
+h2 {
+    margin-left: 50px;
+}
+.bottom {
+    
+        background-color:  #405e65;
+        width: 100%;
+        height: 300px;
+        margin-top: 50px;
+     
+}
+.h {
+    color: white;
+    position: absolute;
+left: 100px;
+margin-top: 40px;
+display: inline-block;
+
+
+}
+.bottom >.i {
+    width: 10%;
+    margin: 20px;
+    margin-top: 100px;
+    margin-left: 120px;
+    border: 2px solid;
+    display: inline-block;
+}
+.text2  {
+
+    color: white;
+    width: 20%;
+    position: absolute;
+    display: inline-block;
+    margin-top: 100px; 
+}
+.b1 {
+    background-color: rgba(0, 0, 0, 0.726);
+    color: white;
+    width: 15%;
+    position: absolute;
+    text-align: center;
+    display: inline-block;
+   margin-left: 280px;
+   margin-top: -10px;
+cursor: pointer;
+}
+.b1:hover {
+    background-color:black ;
+    color: white;
+}
+.h1 {
+    color: white;
+    position: absolute;
+left: 620px;
+margin-top: 40px;
+display: inline-block;
+}
+.text3 {
+    color: white;
+    width: 20%;
+    position: absolute;
+    display: inline-block;
+    margin-top: 100px; 
+    margin-left: 600px;
+}
+.emo {
+text-align: left;
+align-items: left;
+font-size: 30px;
+margin-top: -40px;
+margin-left: 180px;
+}
+.h2 {
+    color: white;
+    position: absolute;
+left: 920px;
+margin-top: 40px;
+display: inline-block;
+text-align: justify;
+}
+.co {
+    background-color: rgba(0, 0, 0, 0.726);
+    color: white;
+    width: 15%;
+    position: absolute;
+    padding-left: 5px;
+margin-top: 150px;
+   margin-left: 920px;
+
+cursor: pointer;
+}
+.co:hover {
+    background-color:black ;
+    color: white;
+}
+.ce {
+    background-color: rgba(0, 0, 0, 0.726);
+    color: white;
+    width: 15%;
+    position: absolute;
+    padding-left: 5px;
+margin-top: 180px;
+   margin-left: 920px;
+
+cursor: pointer;
+}
+.ce:hover {
+    background-color:black ;
+    color: white;
+}
+
